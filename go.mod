@@ -18,7 +18,7 @@ require (
 	github.com/moul/pb v0.0.0-20180404114147-54bdd96e6a52
 	github.com/ncabatoff/process-exporter v0.7.1
 	github.com/onsi/ginkgo v1.14.0
-	github.com/opencontainers/runc v1.0.0-rc91.0.20200707015106-819fcc687efb
+	github.com/opencontainers/runc v1.1.5
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.7.1
 	github.com/prometheus/client_model v0.2.0
@@ -29,7 +29,7 @@ require (
 	github.com/tallclair/mdtoc v1.0.0
 	github.com/zakjan/cert-chain-resolver v0.0.0-20200409100953-fa92b0b5236f
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/net v0.0.0-20200707034311-ab3426394381
+	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
 	google.golang.org/grpc v1.27.0
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/pool.v3 v3.1.1
