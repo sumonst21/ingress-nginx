@@ -10,27 +10,28 @@ require (
 	github.com/fullsailor/pkcs7 v0.0.0-20190404230743-d7302db945fa // indirect
 	github.com/gavv/httpexpect/v2 v2.1.0
 	github.com/imdario/mergo v0.3.10
-	github.com/json-iterator/go v1.1.10
-	github.com/kylelemons/godebug v0.0.0-20170820004349-d65d576e9348
+	github.com/json-iterator/go v1.1.12
+	github.com/kylelemons/godebug v1.1.0
 	github.com/mitchellh/go-ps v1.0.0
 	github.com/mitchellh/hashstructure v1.0.0
-	github.com/mitchellh/mapstructure v1.3.2
+	github.com/mitchellh/mapstructure v1.5.0
 	github.com/moul/pb v0.0.0-20180404114147-54bdd96e6a52
 	github.com/ncabatoff/process-exporter v0.7.1
 	github.com/onsi/ginkgo v1.14.0
 	github.com/opencontainers/runc v1.0.0-rc91.0.20200707015106-819fcc687efb
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.7.1
-	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/common v0.10.0
+	github.com/prometheus/client_golang v1.21.1
+	github.com/prometheus/client_model v0.6.1
+	github.com/prometheus/common v0.63.0
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.10.0
 	github.com/tallclair/mdtoc v1.0.0
 	github.com/zakjan/cert-chain-resolver v0.0.0-20200409100953-fa92b0b5236f
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/net v0.0.0-20200707034311-ab3426394381
-	google.golang.org/grpc v1.27.0
+	golang.org/x/crypto v0.36.0
+	golang.org/x/net v0.38.0
+	google.golang.org/grpc v1.71.1
+	google.golang.org/grpc/examples v0.0.0-20250414090033-6319a2c1cd44 // indirect
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/pool.v3 v3.1.1
 	k8s.io/api v0.19.0
